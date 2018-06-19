@@ -1,2 +1,0 @@
-# CodeSandboxProj
-Created with CodeSandbox
